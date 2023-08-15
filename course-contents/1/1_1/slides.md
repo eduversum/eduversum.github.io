@@ -39,6 +39,6 @@ We will learn that atoms are made of [**neutrons**]{.grey}, [**protons**]{.red},
 </slide>
 
 <slide class="md">
-And that was that.
+Please feel free to contact us at [eduversum.dev@gmail.com](mailto:eduversum.dev@gmail.com) in case you have suggestions to improve the contents, the app, or want to contribute to Eduversum.
 </slide>
 </slides>

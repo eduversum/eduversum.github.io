@@ -1,0 +1,1 @@
+import{Q as e}from"./QChip.4992a799.js";import{_ as t,k as a,l as o,f as r,p as c,q as s}from"./index.413ee3c4.js";const l={};function n(i,_){return a(),o("div",null,[r(e,{size:"xl",color:"negative","text-color":"white"},{default:c(()=>[s("Hello, Test")]),_:1})])}var p=t(l,[["render",n]]);export{p as default};
